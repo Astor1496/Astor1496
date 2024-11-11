@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @Astor1496
-- 👀 I’m interested in HTML
+- 👀 I’m interested in projects that simplify life.
 - 🌱 I’m currently learning web development.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me just comment on my reps.
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I LOVE CODE!!!
 
 <!---
